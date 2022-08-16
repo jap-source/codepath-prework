@@ -1,7 +1,7 @@
-## NAME_OF_YOUR_APP_HERE
+## HELLO WORLD APP
 
 ### App Description
-`TODO://` Add app description
+`TODO://` A simple App that shows a text and can change the color of text and background with a button. Can also type words on the line.
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
